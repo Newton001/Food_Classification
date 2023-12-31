@@ -1,0 +1,53 @@
+2023-12-19 02:36:46,176 - INFO - Code Start.
+2023-12-19 02:45:12,779 - INFO - Code Start.
+2023-12-19 07:50:31,593 - INFO - Using C:\Users\newto\AppData\Local\Temp\tfhub_modules to cache modules.
+2023-12-19 07:50:51,183 - INFO - Fingerprint not found. Saved model loading will continue.
+2023-12-19 10:54:12,104 - INFO - Code Start.
+2023-12-19 10:54:34,218 - INFO - Using C:\Users\newto\AppData\Local\Temp\tfhub_modules to cache modules.
+2023-12-19 10:54:51,940 - INFO - Fingerprint not found. Saved model loading will continue.
+2023-12-19 13:18:24,157 - INFO - Fingerprint not found. Saved model loading will continue.
+2023-12-20 21:24:25,619 - INFO - Code Start.
+2023-12-20 21:25:14,784 - INFO - Using C:\Users\SUREGO~1\AppData\Local\Temp\tfhub_modules to cache modules.
+2023-12-20 21:25:14,862 - WARNING - From C:\Users\SuregonsLab\anaconda3\envs\cas\Lib\site-packages\tensorflow_hub\resolver.py:120: The name tf.gfile.MakeDirs is deprecated. Please use tf.io.gfile.makedirs instead.
+
+2023-12-20 21:25:14,894 - WARNING - From C:\Users\SuregonsLab\anaconda3\envs\cas\Lib\site-packages\tensorflow_hub\module_v2.py:120: The name tf.saved_model.load_v2 is deprecated. Please use tf.compat.v2.saved_model.load instead.
+
+2023-12-20 21:25:18,840 - INFO - Fingerprint not found. Saved model loading will continue.
+2023-12-20 21:25:18,840 - INFO - path_and_singleprint metric could not be logged. Saved model loading will continue.
+2023-12-20 21:25:18,902 - WARNING - From C:\Users\SuregonsLab\anaconda3\envs\cas\Lib\site-packages\keras\src\backend.py:873: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2023-12-20 21:25:32,408 - WARNING - From C:\Users\SuregonsLab\anaconda3\envs\cas\Lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+
+2023-12-20 22:43:47,044 - INFO - Fingerprint not found. Saved model loading will continue.
+2023-12-20 22:43:47,044 - INFO - path_and_singleprint metric could not be logged. Saved model loading will continue.
+2023-12-20 23:35:13,650 - WARNING - From C:\Users\SuregonsLab\anaconda3\envs\cas\Lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2023-12-31 11:15:22,766 - INFO - Code Start.
+2023-12-31 11:15:43,434 - WARNING - From C:\Users\SuregonsLab\anaconda3\envs\cas\Lib\site-packages\keras\src\backend.py:873: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2023-12-31 11:15:43,513 - WARNING - From C:\Users\SuregonsLab\anaconda3\envs\cas\Lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2023-12-31 11:33:01,545 - INFO - Using C:\Users\SUREGO~1\AppData\Local\Temp\tfhub_modules to cache modules.
+2023-12-31 11:33:01,596 - WARNING - From C:\Users\SuregonsLab\anaconda3\envs\cas\Lib\site-packages\tensorflow_hub\resolver.py:120: The name tf.gfile.MakeDirs is deprecated. Please use tf.io.gfile.makedirs instead.
+
+2023-12-31 11:33:01,602 - INFO - Downloading TF-Hub Module 'https://tfhub.dev/tensorflow/efficientnet/b0/feature-vector/1'.
+2023-12-31 11:33:04,145 - INFO - Downloaded https://tfhub.dev/tensorflow/efficientnet/b0/feature-vector/1, Total size: 21.41MB
+2023-12-31 11:33:04,149 - INFO - Downloaded TF-Hub Module 'https://tfhub.dev/tensorflow/efficientnet/b0/feature-vector/1'.
+2023-12-31 11:33:04,194 - WARNING - From C:\Users\SuregonsLab\anaconda3\envs\cas\Lib\site-packages\tensorflow_hub\module_v2.py:120: The name tf.saved_model.load_v2 is deprecated. Please use tf.compat.v2.saved_model.load instead.
+
+2023-12-31 11:33:22,507 - INFO - Fingerprint not found. Saved model loading will continue.
+2023-12-31 11:33:22,507 - INFO - path_and_singleprint metric could not be logged. Saved model loading will continue.
+2023-12-31 11:33:57,591 - INFO - Downloading TF-Hub Module 'https://tfhub.dev/google/tf2-preview/inception_v3/feature_vector/4'.
+2023-12-31 11:34:05,477 - INFO - Downloaded https://tfhub.dev/google/tf2-preview/inception_v3/feature_vector/4, Total size: 85.09MB
+2023-12-31 11:34:05,493 - INFO - Downloaded TF-Hub Module 'https://tfhub.dev/google/tf2-preview/inception_v3/feature_vector/4'.
+2023-12-31 11:34:09,892 - INFO - Fingerprint not found. Saved model loading will continue.
+2023-12-31 11:34:09,892 - INFO - path_and_singleprint metric could not be logged. Saved model loading will continue.
+2023-12-31 11:37:02,596 - INFO - Downloading TF-Hub Module 'https://tfhub.dev/google/imagenet/resnet_v2_50/classification/5'.
+2023-12-31 11:37:11,470 - INFO - Downloaded https://tfhub.dev/google/imagenet/resnet_v2_50/classification/5, Total size: 99.15MB
+2023-12-31 11:37:11,470 - INFO - Downloaded TF-Hub Module 'https://tfhub.dev/google/imagenet/resnet_v2_50/classification/5'.
+2023-12-31 11:37:15,223 - INFO - Fingerprint not found. Saved model loading will continue.
+2023-12-31 11:37:15,223 - INFO - path_and_singleprint metric could not be logged. Saved model loading will continue.
+2023-12-31 12:00:30,621 - INFO - Fingerprint not found. Saved model loading will continue.
+2023-12-31 12:00:30,621 - INFO - path_and_singleprint metric could not be logged. Saved model loading will continue.
+2023-12-31 12:00:32,707 - WARNING - From C:\Users\SuregonsLab\anaconda3\envs\cas\Lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+

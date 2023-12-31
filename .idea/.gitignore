@@ -1,0 +1,27 @@
+# Ignore all images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tif
+*.tiff
+*.webp
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+Food11/
+*.xml
+*.iml
+/inspectionProfiles/*
+*.joblib
+*.keras
+*.h5
+NormNet.joblib
+EfficientNet.joblib
+ResNet.joblib
