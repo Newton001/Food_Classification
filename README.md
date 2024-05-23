@@ -40,7 +40,7 @@ List the software and libraries required to run your Jupyter Notebook. Include v
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yvesunibe/DDM_Project.git
+      https://github.com/Newton001/Food_Classification.git
 
 2. cd DDM_Project
 
